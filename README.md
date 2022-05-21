@@ -94,3 +94,9 @@ cafeteria()
 
 ```
 
+## Preguntas frecuentes
+### 1. ¿Qué tipo de errores se presentaron o se pueden presentar con su implementación al problema?  
+Al plantear el problema en el código de Python pude encontrar algunos problemas de indentación, asignación de variables, o por lo menos de la posición en la que se encuentran las variables que se vayan a reiniciar una vez se terminen las iteraciones del ciclo. También tener muy presente las anidaciones, las variables que se van a retornar y lo que se debe imprimir. Hay que analizar que tanto trabajo realiza el programa, en cuestión de eficiencia y cuál es la magnitud de la cantidad de las líneas de código. Como programadores el punto clave es codificar de 15 a 20 líneas y abstenerse a una línea de ordenamiento lógico.
+
+### 2. ¿Qué estrategias podría usar para solucionar estos errores?  
+Personalmente recomendaría utilizar un editor, como guía para mejorar y depurar. Además de que hay que considerar la arquitectura del código, o puede que desde el mismo idle del lenguaje en cuestión, se logre desarrollar cierta habilidad para resolver esos problemas como práctica.  Así mismo, utilizar la denominada documentación de software para llevar un orden de lo que va a realizar el programa y ¿Por qué?
