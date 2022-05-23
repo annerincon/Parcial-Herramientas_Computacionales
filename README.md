@@ -1,7 +1,9 @@
 # Parcial-Herramientas_Computacionales
 ## **_Parcial 3 Corte - 2022-1_**  
 
-_Anne Katherine Rincón Barrios_  
+_Anne Katherine Rincón Barrios_ 
+
+## Contextualizacion del Parcial
 
 _I semestre de ingenieria de sistemas y computación_ 
 #### 1. **Ejercicio.py**
@@ -93,6 +95,31 @@ def cafeteria():
 cafeteria()
 
 ```
+## Documentacion de importancia
+### Parte explicativa
+#### ¿Que problema es?
+Nos piden plantear una solucion, para simular la cafeteria de la universidad. Por lo que cada cliente debe dar las siguientes especificaciones
+para cumplir con todos los parametros del problema:
+- rol que cumple en la universidad.
+- numero de documento.
+- si pertenece al programa de becas en caso de ser estudiante.  
+Luego le pide al usuario que digite cual es el producto que deseea, el codigo, el precio, y un total segun los procentajes que cumplan los parametros al cumplir con su rol estudiante o profesor:
+* Estudiante con beca tiene un 50% descuento
+* Estudiante normal tienen un 30%
+* Los maestros tienen un 20%
+
+
+## ¿Que modelo computacional lo resuelve?
+Utilizamos python para resolver el problema
+
+## ¿Que recibe como entrada?
+El codigo es una funcion sin parametros donde el usuario del ingresar los datos, y se van a guardar en cada una de las variables asignadas.
+
+## ¿cual es la salida?
+El programa retorna como repuesta el recibo que se le va generar al cliente con toda su informacion y lo que debe pagar ya con los descuentos ya aplicados.
+
+## ¿Como lo calcula?
+A la variable se le asignan unas operaciones matematicas, donde se van a relacionar varias de las variables ya utilizadas en items mas arriba. 
 
 ## Preguntas frecuentes
 ### 1. ¿Qué tipo de errores se presentaron o se pueden presentar con su implementación al problema?  
